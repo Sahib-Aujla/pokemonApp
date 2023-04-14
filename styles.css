@@ -1,0 +1,12 @@
+body {
+    font-family:Arial;
+}
+div#results-container {
+    border:1px solid blue;
+}
+input {
+    display:block;
+}
+img{
+    width:100px;
+}
